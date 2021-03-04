@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-08-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lex-od/goit-js-hw-08-parcel.git"
+  },
+  "keywords": [],
+  "author": "Aleksey Yesin <esinru@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lex-od/goit-js-hw-08-parcel/issues"
+  },
+  "homepage": "https://github.com/lex-od/goit-js-hw-08-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
