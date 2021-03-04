@@ -20,5 +20,9 @@
   "homepage": "https://github.com/lex-od/goit-js-hw-08-parcel#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "js": "^0.1.0"
   }
 }
